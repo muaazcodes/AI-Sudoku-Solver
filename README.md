@@ -11,6 +11,9 @@ An AI-powered Sudoku solver that solves any 9x9 puzzle using intelligent algorit
 - `solver.py` – Core logic using AI algorithms to solve puzzles.
 - `validator.py` – Ensures Sudoku rules are followed.
 - `datafixing.py` – (Optional) Handles data cleaning or formatting if needed.
+- - sudoku.csv` – Contains puzzles and their solutions.
+- `sudoku_puzzles.txt` – Raw puzzles extracted from the CSV.
+- `sudoku_solutions.txt` – Solved puzzles extracted from the CSV
 - `README.md` – Project documentation.
 - `Final Structure.png` – Visual diagram of project layout.
 
